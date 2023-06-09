@@ -1,0 +1,52 @@
+PRIVACY E COOKIE POLICY
+
+Lo scopo del presente documento è di informare la persona fisica (di seguito “Interessato”) relativamente al trattamento dei suoi dati personali (di seguito “Dati Personali”) raccolti dal titolare del trattamento, Azione Cattolica Diocesi di Cerreto Sannita-Telese-Sant’Agata de’ Goti, con sede legale a Cerreto Sannita (BN) in via Coste 1, CF 92044260625, indirizzo e-mail ac.cerreto@gmail.com (di seguito “Titolare”), tramite l’applicazione APPost’! (di seguito “Applicazione”). In questa pagina elettronica si descrivono le modalità di gestione della presente Applicazione in riferimento al trattamento dei dati personali degli utenti che lo consultano. Il trattamento dei dati viene effettuato nel rispetto dei criteri previsti dal regolamento europeo in materia di protezione dei dati personali, Reg. 2016/679/UE e di ogni altro testo legislativo nazionale, provvedimento o autorizzazione dell’Autorità competente allo stesso collegato. Secondo la normativa indicata, il trattamento deve essere improntato ai principi di correttezza, liceità e trasparenza e di tutela della Sua riservatezza e dei Suoi diritti.
+
+Le modifiche e gli aggiornamenti saranno vincolanti non appena pubblicati sull’Applicazione. In caso di mancata accettazione delle modifiche apportate dall’informativa Privacy, l’interessato è tenuto a cessare l’utilizzo di questa Applicazione e può richiedere al Titolare di cancellare i propri Dati Personali.
+
+1. Categorie di Dati Personali trattati
+
+Il trattamento dei Dati Personali è necessario sia per l’acquisizione di informazioni necessarie per il Titolare, sia per adempiere agli obblighi previsti da leggi, da regolamenti e/o normative comunitarie, da organi di vigilanza/controllo o da altre autorità a ciò preposte e legittimate.
+
+Il Titolare tratta le seguenti categorie di Dati Personali, forniti in modo esplicito e volontario dall’Interessato, che è l’unico ad essere giuridicamente responsabile della loro provenienza. I dati personali forniti dall’Interessato, che inoltra richieste di servizi, prestazioni o informazioni, sono utilizzati al solo fine di eseguire il servizio o la prestazione richiesta o di fornire le informazioni richieste e non sono comunicati a terzi né per finalità commerciali, né di marketing. Non è prevista, inoltre, prevista alcuna comunicazione dei suddetti dati né a Paesi terzi dell’U.E., né a Paesi terzi extra U.E. né è prevista la loro diffusione in nessuna forma (es. social network, siti internet ecc..).
+
+1.1 Dati di contatto
+
+I dati di contatto richiesti sono: nome, cognome, indirizzo, e-mail, telefono, immagini, credenziali di autenticazione, eventuali ulteriori informazioni inviate dall’Interessato, etc.
+
+Il mancato conferimento di questi suddetti dati, requisito fondamentale da parte dell’Interessato, comporterà l’impossibilità, per il Titolare del trattamento, di instaurare un rapporto con l’Interessato e, quindi, di erogare i servizi presenti nell’Applicazione.
+
+1.2 Dati di navigazione
+
+I sistemi informatici e le procedure software preposte al funzionamento dell’Applicazione acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet. Si tratta di informazioni che non sono raccolte per essere associate a interessati identificati, ma che per loro stessa natura potrebbero, attraverso elaborazioni ed associazioni con dati detenuti da terzi, permettere di identificare gli utenti. In questa categoria di dati, per esempio, rientrano gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, ecc.) ed altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente. Questi dati, in questo sito vengono utilizzati al solo fine di ricavare informazioni statistiche anonime sull’uso del sito e per controllarne il corretto funzionamento. I dati potrebbero essere utilizzati per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito. Per questi dati, e limitatamente per la finalità suddetta, non è necessario richiedere il consenso.
+
+2. Cookie e tecnologie simili
+
+Nessun dato personale degli utenti viene in proposito acquisito dal sito. Non viene fatto uso di cookies c.d. tecnici e c.d. analitici per la trasmissione di informazioni di carattere personale, né vengono utilizzati cookies c.d. persistenti di alcun tipo, ovvero sistemi per il tracciamento degli utenti, nè cookies c.d. di sessione identificativi di dati personali dell’utente.
+
+3. Base giuridica e finalità
+
+I dati personali conferiti dall’Interessato vengono trattati per le seguenti finalità:
+
+- registrazione e autenticazione (per consentire all'utente di accedere ed essere identificato nell'Applicazione);
+- supporto e contatto (per rispondere alle richieste e risolvere i problemi dell'utente)
+- interazioni con social network o altre piattaforme web esterne (es. per interagire con i social network oppure visualizzare contenuti da altri siti);
+- sicurezza e antifrode (per garantire la sicurezza delle infrastrutture, del patrimonio e delle reti del titolare);
+- gestione, ottimizzazione e monitoraggio dell’infrastruttura tecnica statistica (per effettuare analisi statistiche su dati aggregati e anonimi);
+- rilevazione della posizione esatta dell'utente (per controllare gli accessi, gli orari e la presenza dell'utente in un determinato luogo)
+
+4. Modalità del Trattamento
+
+I dati personali sono trattati dal titolare e/o da responsabili debitamente nominati per il corretto adempimento delle finalità indicate, mediante strumenti elettronici e archivi cartacei, nonché con l’impiego di misure di sicurezza atte a garantire la riservatezza dei dati personali e ad evitare indebiti accessi a soggetti non autorizzati. Il titolare del trattamento non ricorre a processi automatizzati, compresa la profilazione, per il raggiungimento delle finalità previste nella presente informativa.
+
+5. Termini del Trattamento
+
+ll Titolare tratterà i Dati personali per il tempo necessario per adempiere alle finalità di cui sopra, e comunque per non oltre 3 anni dall’acquisizione del dato ai fini del trattamento.
+
+6. Diritti dell’Interessato
+
+Ai sensi degli artt. 15 – 22 G.D.P.R., l’Interessato ha diritto di chiedere al titolare del trattamento l’accesso ai Suoi dati personali ovvero la rettifica ovvero la cancellazione degli stessi o la limitazione del trattamento che la riguardano, ovvero ha diritto di opporsi al loro trattamento, oltre al diritto di richiedere la portabilità dei dati stessi. La richiesta può essere fatta a mezzo email o mezzo fax o raccomandata con oggetto: “richiesta da parte dell’Interessato”, specificando nella richiesta il diritto che l’interessato vuole esercitare (cancellazione, rettifica, portabilità, oblio), unitamente ad un valido indirizzo di posta elettronica/pec al quale recapitare il riscontro. Il titolare del trattamento o, chiunque dallo stesso incaricato, procederà a soddisfare la richiesta entro 30 giorni dalla data di ricevimento. Qualora la risposta fosse complessa, il tempo potrebbe allungarsi ad ulteriori 30 giorni, previa tempestiva comunicazione allo stesso interessato. Qualora ritenga opportuno far valere i suoi diritti, ha facoltà di proporre reclamo all’autorità di controllo competente, corrispondente al Garante privacy nazionale, con sede in Palazzo Monte Citorio 121, Roma, garante@gpdp.it.
+
+PRESA VISIONE
+
+L'interessato, letta l’informativa resa ai sensi del Reg. 2016/679/UE, con l'installazione dell'applicazione dichiara di aver compreso le finalità e le modalità del trattamento ivi descritte e presta il suo consenso al trattamento e alla comunicazione dei suoi dati personali per i fini presenti nella suddetta informativa
